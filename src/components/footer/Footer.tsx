@@ -7,7 +7,7 @@ function Footer() {
 
   return (
     <>
-        <div className="flex justify-center bg-indigo-900 text-white">
+        <div className="flex justify-center bg-sky-700 text-white">
           <div className="container flex flex-col items-center py-4">
             <p className='text-xl font-bold'>FarmaciaVania | Copyright: Vania Melo-2024 </p>
             <p className='text-lg'>Acesse nossas redes sociais</p>
